@@ -1,0 +1,43 @@
+ 
+
+Student Management System Project In Python 
+
+ 
+
+Student Management System project is written in Python. The project file contains a python script (student.py).  Talking about the system, it contains basic functions which include Add students, view students, search students and remove the student.  
+
+While adding the students, the user only has to enter his/her name then the system adds the record and displays to the user. And the user can view all these students lists from the view section. In this Simple Student Management, the user can also search for student’s name in order to know whether the student’s record exists in the system or not. This Student Management system provides the simplest management of student’s list. 
+
+In short, this projects mainly focus on CRUD. There is no database connection or neither any external text or other files used in this project to save user’s data permanently. 
+
+ 
+
+Features: 
+
+Add Students 
+
+List all students 
+
+Search students 
+
+Remove Students 
+
+ 
+
+How to Run: 
+
+first you need install python. 
+
+download project. 
+
+extract project. 
+
+double click in student.py. 
+
+Project is run 
+
+ 
+
+Thank you 
+
+Monika  
